@@ -164,9 +164,6 @@ function App() {
           </ul>
         </div>
       </div>
-
-
-
       <div className="row">
         <div className="col-8">
           <div className="form-group" style={{ float: "right", padding: "5px" }}>
@@ -176,14 +173,10 @@ function App() {
         </div>
         <div className="col-4">
         </div>
-
-
       </div>
     </div>
-
-
-
   )
 }
+
 
 export default App;
